@@ -2,7 +2,7 @@ import 'package:company_profile/model/company.dart';
 
 class RepoData{
       static  final  Company bawp = new  Company(
-          name: 'Build Apps With Paulo',
+          name: 'Build Apps With Alexis',
           about:
           'Our goal is to teach you the skills and equip you with the tools to become the best mobile developer and programmer you can be. '
               ' We want to make you a well-rounded developer.  That’s the mission.',
